@@ -12,9 +12,9 @@ __LinkedIn:__ [Maksim Marushchak](https://www.linkedin.com/in/maksim-marushchak-
 
 __GitHub:__ [squibms](https://github.com/squibms)
 
-## Junior iOS and Android Developer
+## Junior Mobile Developer
 
-I've been QA engineer for 7 years with hands on manual and UI and API automation expirience and now I want to move forvard and make transition to Mobile developer. I 
+I've been QA engineer for 7 years with hands on manual and UI and API automation expirience and now I want to move forvard and make transition to Mobile developer.
 
 ## Experience
 

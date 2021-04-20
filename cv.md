@@ -19,12 +19,14 @@ I've been QA engineer for 7 years with hands on manual and UI and API automation
 ## Experience
 
 ### QA ENGINEER, LEO VEGAS; STOCKHOLM — 2019
-LeoVegas casino native apps team
+LeoVegas casino native apps team 
 
 #### Responsibilities:
 - Perform manual functional and non-functional testing;
 - Integration testing
 - UI automation setup
+
+[AppStore link](https://apps.apple.com/mt/developer/leovegas-gaming-ltd/id834294345)
 
 ### SENIOR QA ENGINEER, JUNO LAB; MINSK — 2017-2019
 Mobile app Juno - taxi service

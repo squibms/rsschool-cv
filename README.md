@@ -1,1 +1,1 @@
-# rsschool-cv
+https://squibms.github.io/rsschool-cv/cv
